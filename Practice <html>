@@ -1,0 +1,27 @@
+<html>
+
+<p>Welcome to Jillian's Wacky Cat Page</p>
+<p>Yo I am a paragraph am I'm gonna tell you some stuff about cats. They're pretty cool and they're mammals </p>
+<p>Yo I am a paragraph also</p>
+<p>Word I'm a paragraph too!</p>
+<h1 style="color: purple;">This is important</h1>
+<h2>This is less important</h2>
+<div><span style="color: green;"> This is some green text! </span></div>
+<p>&nbsp;</p>
+<h3 align="center" style="color: red;">
+  
+ CATRITTO 
+
+</h3>
+<div><img src="https://i.ytimg.com/vi/tntOCGkgt98/maxresdefault.jpg" alt=""style="width:300px;height:400pxt;"  /></div>
+<center> This text will be center-aligned.</center>
+<div><a href="https://www.pinterest.com/explore/funny-cats/">Check out some rad cats!</a></div>
+
+<h2> Here's a Cat Grocery List </h2>
+<ul> 
+  <li> Food </li>
+  <li> Water </li>
+  <li> Toys </li>
+</ul>
+
+</html>
